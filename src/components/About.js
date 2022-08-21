@@ -10,7 +10,7 @@ const About = () => {
                    <div className='about-me'>
                         <p>I'm a full-stack developer driven by solving problems, attention to
                             detail and the curiosity to learn more.</p>
-                        <p>As a Software developer, my job is to brige the gap between imagination design and coding, by making it interactive and scalable.</p>
+                        <p>As a Software developer, my job is to bridge the gap between imagination design and coding, by making it interactive and scalable.</p>
                         <p>My mission is to find a position within a diverse team , which allows me to expand my knowledge.</p>
                         <p>I am looking for full-time/internship/part-time roles as a software engineer/developer, full-stack engineer</p>
                    </div>
