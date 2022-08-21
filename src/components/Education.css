@@ -1,0 +1,104 @@
+.edu-container ul{
+    list-style-type: circle;
+    padding: 0 1.5em;
+    margin-bottom: 0.6em;
+}
+
+.edu-container ul li{
+    margin-bottom: 0.4em;
+}
+.edu-wrapper {
+    background-color: #f8f8f8;
+    margin-top: 0.5em;
+    padding: 4rem 1rem 0 1rem;
+    width: 100%;
+}
+
+.edu-wrapper .container {
+    width: 98%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+
+.edu-wrapper .col-2 {
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 3rem;
+}
+.education{
+    width: 100%;
+    /* margin: 0.2em 0;
+    border-radius: 5px;
+    padding: 0.5rem;
+    border: 2px solid var(--primary-color);
+    border-top: 12px solid var(--primary-color);
+    border-bottom: 12px solid var(--primary-color);
+    padding: 0 1.5em; */
+}
+.edu-container{
+    width: 100%;
+    margin: 1.5em 0;
+    border-radius: 5px;
+    padding: 1.5rem;
+    border: 2px solid var(--primary-color);
+    border-bottom: 12px solid var(--primary-color);
+}
+
+.education h2 {
+    font-size: 3rem;
+    text-align: center;
+    margin: 0.5em 0;
+}
+
+.about-me{
+    font-size: 0.9em;
+    line-height: normal;
+}
+.experience,
+.about-me{
+    margin: 0.2em 0;
+    padding: 0.5rem;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+}
+.experience h3{
+    font-size: 0.9em;
+}
+.experience p{
+    font-size: 0.9em;
+    line-height: normal;
+}
+
+.experience span{
+    font-size: 0.9em;
+    text-align: right;
+    display: block;
+    font-size: bolder;
+}
+
+@media screen and (max-width:940px) {
+    .about .container {
+        grid-template-columns: 1fr;
+    }
+
+    .about .container {
+        width: 100%;
+    }
+
+    .about .container img {
+        padding: 0rem;
+        width: 90vw;
+    }
+
+    .about .container .col-2 {
+        padding: 0;
+    }
+
+    .about button {
+        margin-bottom: 1rem;
+    }
+}
