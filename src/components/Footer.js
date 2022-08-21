@@ -26,7 +26,6 @@ const Footer = () => {
                     </li>
                 </ul>
                 <div className='bottom'>
-                    <span className='line'></span>
                     <p>Designed & Developed with ❤️ by {""}
           <span className="footer-text">Bilal </span>
           - 2022</p>

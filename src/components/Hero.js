@@ -17,7 +17,7 @@ const Hero = () => {
                 <h3>Software Engineer</h3>
                 <div className='btn-container'>
                     <a href='#contact' className='btn btn-hire'>Hire me</a>
-                    <a href='' className='btn btn-resume'>Resume</a>
+                    <a href='https://drive.google.com/file/d/1zK2SCFQSijEVmMTOXBfEMfaPrflP_c9-/view?usp=sharing' className='btn btn-resume'>Resume</a>
                 </div>
                 <div className='social-medias'>
                     <a href="https://github.com/CodeWithBilal" className='icons'>

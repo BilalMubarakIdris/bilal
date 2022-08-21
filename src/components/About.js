@@ -14,32 +14,6 @@ const About = () => {
                         <p>My mission is to find a position within a diverse team , which allows me to expand my knowledge.</p>
                         <p>I am looking for full-time/internship/part-time roles as a software engineer/developer, full-stack engineer</p>
                    </div>
-                   {/* <div className='education'>
-                        <h2>Education</h2>
-                        <div className='edu-cotainer'>
-                            <h3>Bachelor of Computer Application</h3>
-                            <p>Gandhi Institute of Technology and Management(GITAM), India</p>
-                            <p>2020-2023</p>
-                        </div>
-                        <div className='edu-cotainer'>
-                            <h3>National Diploma</h3>
-                            <p>Nigerian Institute of Leather and Science Technology (Zaria,Samaru, Nigeria)</p>
-                            <p>2018-2020</p>
-                        </div>
-                   </div>
-                   <div className='education'>
-                        <h2>Certificates</h2>
-                        <div className='edu-cotainer'>
-                            <h3>Bachelor of Computer Application</h3>
-                            <p>Gandhi Institute of Technology and Management(GITAM), India</p>
-                            <p>2020-2023</p>
-                        </div>
-                        <div className='edu-cotainer'>
-                            <h3>Full-stack Nano Degree</h3>
-                            <p>Udacity</p>
-                            <p>2022</p>
-                        </div>
-                   </div> */}
                 </div>
                 <div className='col-2'>
                     <h2>Experince</h2>
