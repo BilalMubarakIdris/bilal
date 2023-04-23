@@ -30,9 +30,6 @@
     font-size: 0.9em;
     line-height: normal;
 }
-.about-me p{
-    margin-bottom: 1em;
-}
 .experience,
 .about-me{
     margin: 0.2em 0;
@@ -41,10 +38,23 @@
 }
 .experience h3{
     font-size: 0.9em;
+    margin: 0.5rem 0
+}
+.about-me h4{
+    font-size:1.4rem;
+    margin: 1rem 0;
+}
+.about-me p{
+    line-height: 2rem;
+    text-align:justify;
+    margin-bottom: 0.5rem;
+
 }
 .experience p{
     font-size: 0.9em;
     line-height: normal;
+    text-align:justify;
+    margin-bottom: 0.5rem;
 }
 
 .experience span{
@@ -52,6 +62,7 @@
     text-align: right;
     display: block;
     font-size: bolder;
+    margin: 0.5rem 0
 }
 /* .about .col-2 p:first-of-type {
     margin: 2rem 0;
