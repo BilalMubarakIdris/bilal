@@ -27,7 +27,7 @@ const Hero = () => {
             Hire me
           </a>
           <a
-            href="https://drive.google.com/file/d/1zK2SCFQSijEVmMTOXBfEMfaPrflP_c9-/view?usp=sharing"
+            href="https://drive.google.com/file/d/1kGycYiUp-A9azRY0ULpYInNtHeoMZl86/view?usp=share_link"
             className="btn btn-resume"
           >
             Resume
